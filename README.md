@@ -1,1 +1,4 @@
-# 👋 Hey you! Welcome to my GitHub profile! / Salut! Bienvenue sur mon profil Github!
+# 👋 Hey you! Welcome to my GitHub profile.
+
+I am a backend web developer specializing in PHP/Symfony from Tours, France
+
