@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my portfolio <a href="https://kevin-francisco.fr/">**kevin-francisco.fr**</a>
 
-- 🌱 I’m currently learning **React, Javascript**
+- 🌱 I’m currently learning **T**esting **D**riven **D**evelopment
 
 - 🔭 My last completed project [maBoutiqueOfficielle](https://maboutiqueofficielle.herokuapp.com/)
 
