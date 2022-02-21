@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋,you! Welcome to my GitHub profile</h1>
 <h2 align="center">I am a backend web developer specializing in PHP/Symfony From <img src="https://github.com/FranciscoKevin/FranciscoKevin/blob/main/img/france-flag.png"><br/>
+<img src="https://github.com/FranciscoKevin/FranciscoKevin/blob/main/img/street-workout.jpeg">
 To know more about me, go to see my website: <a href="https://kevin-francisco.fr/">https://kevin-francisco.fr/</a>
 </h2>
 
