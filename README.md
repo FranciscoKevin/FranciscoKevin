@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋,you! Welcome to my GitHub profile</h1>
-<h2 align="center">I am a backend web developer specializing in PHP/Symfony From <img src="https://github.com/FranciscoKevin/FranciscoKevin/blob/main/img/france-flag.png"><br/>
-<img src="https://github.com/FranciscoKevin/FranciscoKevin/blob/main/img/street-workout.jpeg">
+<h1 align="center">Hi 👋,you! I'm Kévin Francisco Welcome to my GitHub profile</h1>
+<h2 align="center">I am a backend web developer specializing in PHP/Symfony From <img src="https://github.com/FranciscoKevin/FranciscoKevin/blob/main/img/france-flag.png"><br/><br/>
+<img align="center"src="https://github.com/FranciscoKevin/FranciscoKevin/blob/main/img/street-workout.jpeg" alt="Kévin Francisco StreetWorkout" height="400" /><br/><br/>
 To know more about me, go to see my website: <a href="https://kevin-francisco.fr/">https://kevin-francisco.fr/</a>
 </h2>
 
@@ -47,5 +47,5 @@ To know more about me, go to see my website: <a href="https://kevin-francisco.fr
 
 <div align="center">
  <h3>Github Stats 🧐</h3>
- <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true">
+ <img src="https://github-readme-stats.vercel.app/api?username=FranciscoKevin&theme=codeSTACKr&show_icons=true">
 </div>
