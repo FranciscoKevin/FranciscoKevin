@@ -4,7 +4,7 @@ To know more about me, go to see my website: <a href="https://kevin-francisco.fr
 </h2>
 
 <h3 align="center">New challenge of the year 2022, solve one algorithm per day</h3><br/>
-<h3 align="left">Last informations:</h3>
+<h3 align="left">Last informations 🧐</h3>
 
 - 🔭 Currently I am looking for a dev job opportunity.
 
@@ -40,3 +40,11 @@ To know more about me, go to see my website: <a href="https://kevin-francisco.fr
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://inkscape.org/fr/" target="_blank" rel="noreferrer"><img src="https://github.com/FranciscoKevin/FranciscoKevin/blob/main/img/inkscape.png" width="60" height="40" alt="Inkscape"></a>
 </p>
+ 
+<h3 align="left">Contributions 🔰</h3>
+<img src="profile-3d-contrib/profile-night-rainbow.svg">
+
+<div align="center">
+ <h3>Github Stats 🧐</h3>
+ <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=codeSTACKr&show_icons=true">
+</div>
