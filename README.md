@@ -9,7 +9,7 @@ To know more about me, go to see my website: <a href="https://kevin-francisco.fr
 
 - 🔭 Currently I am looking for a dev job opportunity.
 
-- ‍💻 I’m currently learning **T**esting **D**riven **D**evelopment
+- ‍💻 Currently I am create a web application with current covid statistics
 
 - ‍💻 Currently I am training in algorithms on Codewars
 
