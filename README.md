@@ -7,11 +7,11 @@ To know more about me, go to see my website: <a href="https://kevin-francisco.fr
 <h3 align="center">New challenge of the year 2022, solve one algorithm per day</h3><br/>
 <h3 align="left">Last informations 🧐</h3>
 
-- 🔭 Currently I am looking for a dev job opportunity.
-
 - ‍💻 Currently I am create a web application with current covid statistics
 
 - ‍💻 Currently I am training in algorithms on Codewars
+
+- ‍💻 Currently I am learning Java 
 
 - 🔭 My last completed project [maBoutiqueOfficielle](https://maboutiqueofficielle.herokuapp.com/)
 
