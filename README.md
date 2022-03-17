@@ -4,7 +4,6 @@
 To know more about me, go to see my website: <a href="https://kevin-francisco.fr/">https://kevin-francisco.fr/</a>
 </h2>
 
-<h3 align="center">New challenge of the year 2022, solve one algorithm per day</h3><br/>
 <h3 align="left">Last informations 🧐</h3>
 
 - ‍💻 Currently I am training in algorithms on Codewars
