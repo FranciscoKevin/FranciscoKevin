@@ -6,11 +6,11 @@ To know more about me, go to see my website: <a href="https://kevin-francisco.fr
 
 <h3 align="left">Last informations 🧐</h3>
 
-- ‍💻 Currently I am training in algorithms on Codewars
+- ‍💻 Currently I am an IT consultant at <a href="https://www.umanis.com/fr">Umanis</a>
 
 - ‍💻 Currently I am learning Java and VueJs
 
-- 🔭 My last completed project [maBoutiqueOfficielle](https://maboutiqueofficielle.herokuapp.com/) & [covid-19-france](https://covid-19-france.herokuapp.com/)
+- 🔭 My last completed personal projects [maBoutiqueOfficielle](https://maboutiqueofficielle.herokuapp.com/) & [covid-19-france](https://covid-19-france.herokuapp.com/)
 
 - 📫 How to reach me **kevin.francisco@hotmail.fr**
 
